@@ -1,26 +1,58 @@
-## Hi there, I'm Mehran Rezaei 👋
+# 👋 Hi, I'm Mehran Rezaei
 
-I'm a passionate front-end developer with a keen eye for design and a drive for creating engaging user experiences. With 1 years of experience in web development, I specialize in crafting responsive and intuitive interfaces using modern web technologies.
+I'm a **Front-End Developer** specializing in **React.js**, **TypeScript**, and **modern JavaScript** technologies.  
+With two years of freelance experience, I've built responsive, user-centric web applications ranging from **e-commerce websites** to **interactive dashboards**.
 
-### 🔭 What I'm currently working on:
-- Developing and refining user interfaces for web applications.
-- Exploring new front-end frameworks and tools to enhance development workflow.
+I thrive on crafting **seamless**, **pixel-perfect** user experiences, collaborating closely with designers and backend teams to bring ideas to life.  
+Currently, I'm diving deeper into **Next.js** and expanding my expertise in full-stack development.
 
-### 🌱 My skills:
-- HTML5, CSS3, JavaScript (ES6+)
-- Front-end frameworks: React
-- CSS preprocessors: SASS
-- REST API , GraphQL
-- UI frameworks: Tailwind CSS, Bootstrap
-- Version control: Git, GitHub
+---
 
-### 💡 What inspires me:
-I find inspiration in creating meaningful and impactful digital experiences that resonate with users. I'm passionate about staying updated with the latest trends and best practices in front-end development, and I'm always excited to learn and explore new technologies.
+## 🚀 Tech Stack
 
-### 📫 How to reach me:
-You can connect with me on https://www.linkedin.com/in/mehranrezaei to discuss potential collaborations or reach out via email at mhrnrezaeei@gmail.com
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks:** React.js, Next.js
+- **State Management:** Redux, Redux Toolkit, React Query
+- **Styling:** Tailwind CSS, SASS, Bootstrap
+- **APIs:** RESTful APIs, GraphQL
+- **Tools:** Git, GitHub
 
-### 🌐 Check out my portfolio:
-Explore my portfolio at https://mehranrezaei-portfolio.netlify.app/ to see some of the projects I've worked on and get a glimpse of my front-end development skills.
+---
 
-Let's collaborate and build amazing web experiences together! ✨
+## 🔥 What I'm Working On
+
+- Building scalable front-end architectures with React and Next.js
+- Enhancing UI/UX design systems using Tailwind CSS
+- Exploring advanced patterns in TypeScript and React Query
+
+---
+
+## 🎯 Projects
+
+- 🛒 [Flower Shop - E-commerce Website](#) (Live)
+- 📋 [Bamaria Restaurant - Digital Menu](#) (Live)
+- 🦷 [Dental Website](#) (Live)
+- 🏀 [Nike Landing Page - Clone](#) (Live)
+- 📚 [Personal Blog - Demo](#) (Live)
+- 🌐 [My Portfolio](https://mehranrezaei-portfolio.netlify.app/) (Live)
+
+> *(More available at [mehran-r.ir](https://mehran-r.ir))* 
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [mhrnrezaeei@gmail.com](mailto:mhrnrezaeei@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mehranrezaei](https://www.linkedin.com/in/mehranrezaei)
+- 🖥 Portfolio: [mehran-r.ir](https://mehran-r.ir)
+
+I'm always open to collaborations, freelance projects, or just a good tech talk.  
+**Let's create something amazing together! 🚀**
+
+---
+
+## ✨ Fun Facts
+
+- Passionate about clean code and pixel-perfect designs
+- Constantly exploring the intersection of UI/UX and development
+- Lifelong learner, always staying up-to-date with new tech trends
